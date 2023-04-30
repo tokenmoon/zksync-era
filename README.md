@@ -1,4 +1,4 @@
-# zkSync Era: A ZK Rollup For Scaling Ethereum
+# zkSync Era: A ZK Rollup For Scaling Ethereum logo
 
 [![Logo](eraLogo.png)](https://zksync.io/)
 
